@@ -27,3 +27,4 @@ case $Num in
 *)
   echo "not a single digit no";;
 esac
+
