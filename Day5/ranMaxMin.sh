@@ -1,4 +1,4 @@
-  GNU nano 5.9                                                                                              ranMaxMin.sh
+
 #!/bin/bash -x
 
 minvalue=1000
